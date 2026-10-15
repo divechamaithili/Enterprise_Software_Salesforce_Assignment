@@ -1,4 +1,4 @@
-**# Enterprise_Software_Salesforce_Assignment
+# Enterprise_Software_Salesforce_Assignment
 
 ## 1. Apex Basics and Database
 
