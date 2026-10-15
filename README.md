@@ -38,9 +38,4 @@ I learned how Salesforce organizes and connects information using objects and fi
 
 ![Data Modeling Results](images/Picture5.png)
 
----
 
-## 6. Additional Screenshot
-
-<img width="540" height="710" alt="Salesforce Assignment Screenshot" src="https://github.com/user-attachments/assets/a40a5196-215a-4ad6-a0fe-9d788a8876cd" />
-**
